@@ -1,4 +1,4 @@
-# Contributing to [project name]
+# Contributing to Missing-Link Project
 
 ## Overview
 Please note our general guidelines for contributing to NDCLab projects [here](https://ndclab.github.io/wiki/docs/contributing.html).
