@@ -22,6 +22,7 @@ This `main` branch contains completed releases for this project. For all work-in
 ## Contributors
 | Name | Role |
 | ---  | ---  |
+| George Buzzell | Principal Investigator |
 | Arina Polyanskaya | Senior Research Assistant, Project Lead |
 | Laura Gallardo | Junior Research Assistant |
 | Sebastian Roch-Hernandez | Junior Reserch Assistant |
